@@ -9,8 +9,7 @@
 
 - 💬 Ask me about **Mobile Applications, NoSQL databases, Astra Db, Flutter, Android, IOS, Backend Services**
 
-- 📫 How to reach me **ipadeoladavid112@gmail.com**
-
+- 📫 How to reach me on [linkedin](https://www.linkedin.com/in/david-ipadeola-12aab4216/)
 - 📄 Know about my experiences [resume.davidipadeola.com](resume.davidipadeola.com)
 
 <h3 align="left">Connect with me:</h3>
