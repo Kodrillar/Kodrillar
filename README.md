@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [bonzerbay.io](bonzerbay.io)
 
-- 💬 Ask me about **Mobile Application, NoSQL database, Astra Db,Flutter, Android, IOS, Backend Services**
+- 💬 Ask me about **Mobile Applications, NoSQL databases, Astra Db, Flutter, Android, IOS, Backend Services**
 
 - 📫 How to reach me **ipadeoladavid112@gmail.com**
 
