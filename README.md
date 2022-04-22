@@ -1,16 +1,11 @@
 <h1 align="center">Hi 👋, I'm David Ipadeola</h1>
 <h3 align="center">I love to improve things that can be better, technically and product-wise.</h3>
 
-- 🔭 I’m currently working on [Vimqfin](https://github.com/Kodrillar/vimqfin)
+- 🔭 I’m currently working on [Vimqfin](https://github.com/Kodrillar/vimqfin) an open source financial asset exchange. 
 
-- 👨‍💻 All of my projects are available at [dev.davidipadeola.com](dev.davidipadeola.com)
-
-- 📝 I regularly write articles on [bonzerbay.io](bonzerbay.io)
-
-- 💬 Ask me about **Mobile Applications, NoSQL databases, Astra Db, Flutter, Android, IOS, Backend Services**
+- 💬 Ask me about **Mobile Applications, NoSQL databases, Astra Db, Flutter, Android, IOS, Backend Services, Hackathons**
 
 - 📫 Reach me on [linkedin](https://www.linkedin.com/in/david-ipadeola-12aab4216/)
-- 📄 Know about my experiences [resume.davidipadeola.com](resume.davidipadeola.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
