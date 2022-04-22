@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm David Ipadeola</h1>
 <h3 align="center">I love to improve things that can be better, technically and product-wise.</h3>
 
-- 🔭 I’m currently working on [Vimqfin](https://github.com/Kodrillar/vimqfin) an open source financial asset exchange. 
+- 🔭 I’m currently working on [Vimqfin,](https://github.com/Kodrillar/vimqfin) an open source financial asset exchange. 
 
 - 💬 Ask me about **Mobile Applications, NoSQL databases, Astra Db, Flutter, Android, IOS, Backend Services, Hackathons**
 
