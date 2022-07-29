@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Mobile Applications, NoSQL databases, Astra Db, Flutter, Backend Services, Hackathons.**
 
-- 📫 Reach me on [linkedin](https://www.linkedin.com/in/david-ipadeola-12aab4216/)
+- 📫 Reach me on [linkedIn](https://www.linkedin.com/in/david-ipadeola-12aab4216/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
