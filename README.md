@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm David Ipadeola</h1>
 <h3 align="center">I love to improve things that can be better, technically and product-wise.</h3>
 
-- 🔭 I’m currently working on [Intola,](https://github.com/Kodrillar/Intola) a mobile application for shopping, delivering and donating to people in need. 
+- 🔭 I’m currently working on [Intola,](https://github.com/Kodrillar/Intola) a mobile application for seamless shopping, delivering and donating to people in need. 
 
 - 💬 Ask me about **Mobile Applications, NoSQL databases, Astra Db, Flutter, Backend Services, Hackathons.**
 
