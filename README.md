@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Intola,](https://github.com/Kodrillar/Intola) a mobile application for seamless shopping, delivering and donating to people in need(SDG). 
 
-- 💬 Ask me about **Mobile Applications, NoSQL databases, Astra Db, Cassandra, Flutter, Backend Services, Hackathons.**
+- 💬 Ask me about **Mobile Applications, NoSQL databases, AstraDB, Cassandra, Flutter, Backend Services, Hackathons.**
 
 - 📫 Reach me on [linkedIn](https://www.linkedin.com/in/david-ipadeola-12aab4216/)
 
