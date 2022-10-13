@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David Ipadeola</h1>
-<h3 align="center">I love to improve things that can be better, technically and product-wise.</h3>
+<h3 align="center">I love to improve things so that they can be better, technically and product-wise.</h3>
 
 - 🔭 I’m currently working on [Intola,](https://github.com/Kodrillar/Intola) a mobile application for seamless shopping, delivering and donating to people in need(SDG). 
 
