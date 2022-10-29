@@ -2,7 +2,6 @@
 
 
 I'm David, and I enjoy making things better on a technical and product level. 
-
 I’m currently working on [Intola,](https://github.com/Kodrillar/Intola) a mobile application for seamless shopping, delivering and donating to people in need
 
 💬 Ask me about:
