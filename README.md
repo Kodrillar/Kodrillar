@@ -2,7 +2,7 @@
 
 
 I'm David, and I enjoy making things better on a technical and product level. 
-I’m currently working on [Intola,](https://github.com/Kodrillar/Intola) a mobile application for seamless shopping, delivering and donating to people in need. <a href='https://kodrillar.com'>Visit my blog</a> to see what I've written on technology. 
+I’m currently working on [Intola,](https://github.com/Kodrillar/Intola) a mobile application for seamless shopping, delivering and donating to people in need. <a href='https://www.kodrillar.com/'>Visit my blog</a> to see what I've written on technology. 
 
 ### Connect with me:
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ipadeoladavid112@gmail.com)
