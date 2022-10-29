@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm David Ipadeola</h1>
 <h3 align="center">I love to improve things so that they can be better, technically and product-wise.</h3>
 
-<p align="center">I’m currently working on ![Intola,](https://github.com/Kodrillar/Intola) a mobile application for seamless shopping, delivering and donating to people in need </p>
+<p align="center"> I’m currently working on [Intola,](https://github.com/Kodrillar/Intola) a mobile application for seamless shopping, delivering and donating to people in need </p>
 
 
 <h3 align="left">💬 Ask me about:</h3>
