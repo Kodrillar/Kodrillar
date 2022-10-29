@@ -1,4 +1,4 @@
-<h1 align="center">Hello there 👋</h1>
+<h1> Hello there 👋</h1>
 <h3 align="center">I love to improve things so that they can be better, technically and product-wise.</h3>
 
 I’m currently working on [Intola,](https://github.com/Kodrillar/Intola) a mobile application for seamless shopping, delivering and donating to people in need
