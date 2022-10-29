@@ -3,13 +3,10 @@
 
 I’m currently working on [Intola,](https://github.com/Kodrillar/Intola) a mobile application for seamless shopping, delivering and donating to people in need
 
-
 💬 Ask me about:
 - Mobile Applications 😍
 - Flutter/Dart 🥰
 - NoSQL databases 👨🏽‍💻
-- AstraDB 👽
-- Cassandra 🫶🏻
 - Server-side applications 💪🏽
 - Hackathons 😎
 
