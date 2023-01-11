@@ -7,7 +7,7 @@ I’m currently working on [Intola,](https://github.com/Kodrillar/Intola) a mobi
 ### Connect with me:
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidipadeola@kodrillar.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-ipadeola-12aab4216/)
-[![Twitter](https://img.shields.io/badge/-TWITTER-0077B5?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/kdrillar/)
+[![Twitter](https://img.shields.io/badge/-TWITTER-0077B5?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/kodrillar/)
 [![Instagram](https://img.shields.io/badge/-instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kodrillar/)
  
 ### 💬 Ask me about:
